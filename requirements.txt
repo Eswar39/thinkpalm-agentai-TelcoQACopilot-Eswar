@@ -3,3 +3,4 @@ playwright
 pytest
 pytest-playwright
 python-dotenv
+huggingface_hub
